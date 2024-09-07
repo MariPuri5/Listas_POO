@@ -10,13 +10,21 @@ public class Lista4Application {
 		SpringApplication.run(Lista4Application.class, args);
 
 		//Exerc1.resolucao();
+
 		//Exerc2.resolucao();
+
 		//Exerc3.resolucao();
+
 		//Exerc4.resolucao();
+
 		//Exerc5.resolucao();
+
+	
 		//Exerc6.resolucao();
+		
 		//Exerc7.resolucao();
-		//Exerc8.resolucao();
+
+		Exerc8.resolucao();
 
 	}
 
